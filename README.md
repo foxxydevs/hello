@@ -1,3 +1,5 @@
+[![Github Pages Deploy](https://github.com/foxxydevs/hello/actions/workflows/workflow.yml/badge.svg)](https://github.com/foxxydevs/hello/actions/workflows/workflow.yml)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

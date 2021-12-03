@@ -7,6 +7,9 @@ function App() {
         <p>
           Testing with github CI/CD Actions
         </p>
+<button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+  Button
+</button>
         <a
           className="App-link"
           href="https://reactjs.org"
